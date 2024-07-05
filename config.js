@@ -30,7 +30,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'Solo Max Level Newbie';
 export const NavbarName = "Solo Max Level Newbie";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. Max, finds themselves thrust into a virtual reality game where they quickly reach the maximum level despite being a complete newcomer. Armed with newfound abilities and a fresh perspective, Max navigates a world where experience isn't always the key to success. As they face formidable challenges and unexpected friendships, Max embarks on a journey of self-discovery, blending humor and determination to prove their worth in a realm dominated by seasoned gamers.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. Max, finds themselves thrust into a virtual reality game where they quickly reach the maximum level despite being a complete newcomer. Armed with newfound abilities and a fresh perspective, Max navigates a world where experience isn't always the key to success. As they face formidable challenges and unexpected friendships, Max embarks on a journey of self-discovery, blending humor and determination to prove their worth in a realm dominated by seasoned gamers.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
